@@ -1,5 +1,5 @@
-# Hostel Management System
-It is a MERN stack application built for ease of hostel management.
+# Hostel Check-in System
+It is a MERN stack application built for ease of hostel check-in.
 
 ## Features
 

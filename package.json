@@ -1,7 +1,7 @@
 {
   "name": "web",
   "version": "1.0.0",
-  "description": "Hostel Management System for KU",
+  "description": "Hostel Check-In System for KU",
   "main": "index.js",
   "scripts": {
     "client": "npm run dev --prefix client",

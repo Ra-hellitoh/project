@@ -31,12 +31,6 @@ function Navbar() {
         } gap-10 md:flex`}
       >
         <Link
-          to="/about"
-          className="md:py-3 md:hover:text-blue-500 transition-all ease-linear"
-        >
-          About
-        </Link>
-        <Link
           to="/contact"
           className="md:py-3 md:hover:text-blue-500 transition-all ease-linear"
         >
