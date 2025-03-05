@@ -2,11 +2,11 @@
   "_id": {
     "$oid": "645b965902723b061fab22a2"
   },
-  "name": "Muhammad Danish",
-  "email": "muhammaddanish14@gmail.com",
-  "father_name": "Muhammad Tariq",
+  "name": "Rael Oguta",
+  "email": "raeloguta@gmail.com",
+  "father_name": "Mr. Oguta",
   "contact": "03074741119",
-  "address": "Habibabad, Pattoki, Kasur",
+  "address": "Karapul",
   "dob": {
     "$date": "2004-12-12T00:00:00.000Z"
   },

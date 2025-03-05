@@ -30,6 +30,7 @@ export default function SignIn() {
     });
 
     let result = await response.json();
+    console.log("result", result);
 
     if (result.success) {
       localStorage.setItem("token", result.data.token);
