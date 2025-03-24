@@ -1,0 +1,8 @@
+2025-03-20 12:14:49.723 [error] #69: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-03-20 12:16:53.793 [error] #72: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_HTTP2_PROTOCOL_ERROR
+2025-03-20 12:18:25.095 [error] #74: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-20 12:18:25.096 [error] #75: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-20 12:19:07.736 [error] #78: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
+2025-03-20 12:19:16.329 [error] #76: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-20 12:19:16.332 [error] #77: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-03-20 13:08:03.835 [error] #106: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_CLOSED
